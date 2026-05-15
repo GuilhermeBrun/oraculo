@@ -1,0 +1,16 @@
+{
+    "name": "oraculo",
+    "version": "0.1.0",
+    "description": "Sistema para gerenciamento de conhecimento.",
+    "license": "MIT",
+    "author": "Guilherme Brun Moraes",
+    "type": "commonjs",
+    "main": "src/main/main.js",
+    "scripts": {
+        "start": "electron .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "electron": "^42.0.1"
+    }
+}
